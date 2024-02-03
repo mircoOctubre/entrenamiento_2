@@ -1,0 +1,25 @@
+<annotation>
+	<folder></folder>
+	<filename>cuchillovvvv (20).jpg</filename>
+	<path>//cuchillovvvv (20).jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>cuchillo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>323</ymin>
+			<xmax>319</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>

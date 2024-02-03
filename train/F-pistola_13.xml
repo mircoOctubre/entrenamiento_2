@@ -1,0 +1,25 @@
+<annotation>
+	<folder></folder>
+	<filename>F-pistola_13.jpg</filename>
+	<path>./F-pistola_13.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pistola</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>400</ymin>
+			<xmax>261</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>

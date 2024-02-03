@@ -1,0 +1,25 @@
+<annotation>
+	<folder></folder>
+	<filename>pistolaA (88) - copia.jpg</filename>
+	<path>./pistolaA (88) - copia.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pistola</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>409</xmin>
+			<ymin>117</ymin>
+			<xmax>482</xmax>
+			<ymax>156</ymax>
+		</bndbox>
+	</object>
+</annotation>

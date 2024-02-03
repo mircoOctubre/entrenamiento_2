@@ -1,0 +1,37 @@
+<annotation>
+	<folder></folder>
+	<filename>cuchillodomingero (132).jpg</filename>
+	<path>./cuchillodomingero (132).jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>cuchillo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>409</xmin>
+			<ymin>16</ymin>
+			<xmax>444</xmax>
+			<ymax>75</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cuchillo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>578</xmin>
+			<ymin>20</ymin>
+			<xmax>602</xmax>
+			<ymax>97</ymax>
+		</bndbox>
+	</object>
+</annotation>

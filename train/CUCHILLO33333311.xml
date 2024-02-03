@@ -1,0 +1,37 @@
+<annotation>
+	<folder>.</folder>
+	<filename>CUCHILLO33333311.jpg</filename>
+	<path>./CUCHILLO33333311.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pistola</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>261</xmin>
+			<ymin>160</ymin>
+			<xmax>316</xmax>
+			<ymax>195</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cuchillo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>78</ymin>
+			<xmax>232</xmax>
+			<ymax>131</ymax>
+		</bndbox>
+	</object>
+</annotation>
